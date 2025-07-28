@@ -51,5 +51,5 @@ The pipeline processes 6 raw CSV datasets:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/ecommerce-data-analytics-engine.git
-   cd ecommerce-data-analytics-engine
+   git clone [https://github.com/yourusername/ecommerce-data-analytics-engine.git](https://github.com/MohitBajpai78271/-E-Commerce-Data-Analysis-Insights-System.git)
+   cd -E-Commerce-Data-Analysis-Insights-System.git
